@@ -6,8 +6,11 @@ namespace CsharpBasic
     {
         static void Main(string[] args)
         {
-            Child d = new Child();
-            d.Message();
+            Demo d=new Demo();
+            d.Message(4);
+            int a = 5;
+        int z=a.Factorial();
+            Console.WriteLine(z);
           
         }
     }

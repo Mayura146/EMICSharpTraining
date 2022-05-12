@@ -1,1 +1,15 @@
-﻿
+﻿Extension Functions
+class Demo
+{
+   message()
+   {
+   
+   }
+
+   hello()
+   {
+   }
+}
+
+
+extension functions
