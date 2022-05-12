@@ -1,0 +1,16 @@
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\bin\Debug\net5.0\CsharpBasic.exe
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\bin\Debug\net5.0\CsharpBasic.deps.json
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\bin\Debug\net5.0\CsharpBasic.runtimeconfig.json
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\bin\Debug\net5.0\CsharpBasic.runtimeconfig.dev.json
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\bin\Debug\net5.0\CsharpBasic.dll
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\bin\Debug\net5.0\ref\CsharpBasic.dll
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\bin\Debug\net5.0\CsharpBasic.pdb
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\obj\Debug\net5.0\CsharpBasic.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\obj\Debug\net5.0\CsharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\obj\Debug\net5.0\CsharpBasic.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\obj\Debug\net5.0\CsharpBasic.AssemblyInfo.cs
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\obj\Debug\net5.0\CsharpBasic.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\obj\Debug\net5.0\CsharpBasic.dll
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\obj\Debug\net5.0\ref\CsharpBasic.dll
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\obj\Debug\net5.0\CsharpBasic.pdb
+C:\EMICSharpTraining\CsharpBasic\CsharpBasic\obj\Debug\net5.0\CsharpBasic.genruntimeconfig.cache
