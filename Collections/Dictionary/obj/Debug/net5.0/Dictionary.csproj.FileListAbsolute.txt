@@ -1,0 +1,16 @@
+C:\EMICSharpTraining\Collections\Dictionary\bin\Debug\net5.0\Dictionary.exe
+C:\EMICSharpTraining\Collections\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+C:\EMICSharpTraining\Collections\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+C:\EMICSharpTraining\Collections\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+C:\EMICSharpTraining\Collections\Dictionary\bin\Debug\net5.0\Dictionary.dll
+C:\EMICSharpTraining\Collections\Dictionary\bin\Debug\net5.0\ref\Dictionary.dll
+C:\EMICSharpTraining\Collections\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+C:\EMICSharpTraining\Collections\Dictionary\obj\Debug\net5.0\Dictionary.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\Collections\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\Collections\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\Collections\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+C:\EMICSharpTraining\Collections\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\Collections\Dictionary\obj\Debug\net5.0\Dictionary.dll
+C:\EMICSharpTraining\Collections\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll
+C:\EMICSharpTraining\Collections\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+C:\EMICSharpTraining\Collections\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache

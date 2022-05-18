@@ -1,0 +1,15 @@
+C:\EMICSharpTraining\Collections\Hashset\bin\Debug\net5.0\Hashset.exe
+C:\EMICSharpTraining\Collections\Hashset\bin\Debug\net5.0\Hashset.deps.json
+C:\EMICSharpTraining\Collections\Hashset\bin\Debug\net5.0\Hashset.runtimeconfig.json
+C:\EMICSharpTraining\Collections\Hashset\bin\Debug\net5.0\Hashset.runtimeconfig.dev.json
+C:\EMICSharpTraining\Collections\Hashset\bin\Debug\net5.0\Hashset.dll
+C:\EMICSharpTraining\Collections\Hashset\bin\Debug\net5.0\ref\Hashset.dll
+C:\EMICSharpTraining\Collections\Hashset\bin\Debug\net5.0\Hashset.pdb
+C:\EMICSharpTraining\Collections\Hashset\obj\Debug\net5.0\Hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\Collections\Hashset\obj\Debug\net5.0\Hashset.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\Collections\Hashset\obj\Debug\net5.0\Hashset.AssemblyInfo.cs
+C:\EMICSharpTraining\Collections\Hashset\obj\Debug\net5.0\Hashset.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\Collections\Hashset\obj\Debug\net5.0\Hashset.dll
+C:\EMICSharpTraining\Collections\Hashset\obj\Debug\net5.0\ref\Hashset.dll
+C:\EMICSharpTraining\Collections\Hashset\obj\Debug\net5.0\Hashset.pdb
+C:\EMICSharpTraining\Collections\Hashset\obj\Debug\net5.0\Hashset.genruntimeconfig.cache

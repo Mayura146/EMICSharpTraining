@@ -1,0 +1,15 @@
+C:\EMICSharpTraining\Collections\Stack\bin\Debug\net5.0\Stack.exe
+C:\EMICSharpTraining\Collections\Stack\bin\Debug\net5.0\Stack.deps.json
+C:\EMICSharpTraining\Collections\Stack\bin\Debug\net5.0\Stack.runtimeconfig.json
+C:\EMICSharpTraining\Collections\Stack\bin\Debug\net5.0\Stack.runtimeconfig.dev.json
+C:\EMICSharpTraining\Collections\Stack\bin\Debug\net5.0\Stack.dll
+C:\EMICSharpTraining\Collections\Stack\bin\Debug\net5.0\ref\Stack.dll
+C:\EMICSharpTraining\Collections\Stack\bin\Debug\net5.0\Stack.pdb
+C:\EMICSharpTraining\Collections\Stack\obj\Debug\net5.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\Collections\Stack\obj\Debug\net5.0\Stack.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\Collections\Stack\obj\Debug\net5.0\Stack.AssemblyInfo.cs
+C:\EMICSharpTraining\Collections\Stack\obj\Debug\net5.0\Stack.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\Collections\Stack\obj\Debug\net5.0\Stack.dll
+C:\EMICSharpTraining\Collections\Stack\obj\Debug\net5.0\ref\Stack.dll
+C:\EMICSharpTraining\Collections\Stack\obj\Debug\net5.0\Stack.pdb
+C:\EMICSharpTraining\Collections\Stack\obj\Debug\net5.0\Stack.genruntimeconfig.cache

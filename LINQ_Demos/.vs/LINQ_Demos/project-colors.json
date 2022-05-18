@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f192e08-03fd-4954-94b3-d4fe6909a891": {
+      "ProjectGuid": "0f192e08-03fd-4954-94b3-d4fe6909a891",
+      "DisplayName": "LINQ_Demos",
+      "ColorIndex": 0
+    },
+    "a2e03c62-75d5-40ae-8e62-d8e8cdcb51d1": {
+      "ProjectGuid": "a2e03c62-75d5-40ae-8e62-d8e8cdcb51d1",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "717b78d9-af92-434f-b2ed-ea8413fa6996": {
+      "ProjectGuid": "717b78d9-af92-434f-b2ed-ea8413fa6996",
+      "DisplayName": "LINQDemos",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

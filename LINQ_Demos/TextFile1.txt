@@ -1,0 +1,19 @@
+LINQ
+
+LAngauage Integrated Query
+SQL Server
+ADo.net
+XML
+Array
+
+LINQ providers
+
+1. LINQ to Objects => array,collections
+2. LINQ to SQL=> (ORM)
+3.LINQ to data set=> ADo.net => 
+4.LINQ to XML=> xml document
+5. PLINQ=>
+
+Different ways to write LINQ query
+Query Syntax => sql query
+Method syntax=>

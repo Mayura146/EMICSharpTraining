@@ -1,0 +1,22 @@
+Collections:
+
+Different types of Collections
+array: => Fixed 
+
+int [] a=new int [9];
+
+a=new int [34];
+Collections
+
+Generic - non generic
+
+
+Collection:
+ List
+    ArrayList
+    LinkedList
+    Stack
+ Queue
+ Set
+ Soretd Set
+ HAshset

@@ -1,0 +1,16 @@
+C:\EMICSharpTraining\Collections\List\bin\Debug\net5.0\SoretedSet.exe
+C:\EMICSharpTraining\Collections\List\bin\Debug\net5.0\SoretedSet.deps.json
+C:\EMICSharpTraining\Collections\List\bin\Debug\net5.0\SoretedSet.runtimeconfig.json
+C:\EMICSharpTraining\Collections\List\bin\Debug\net5.0\SoretedSet.runtimeconfig.dev.json
+C:\EMICSharpTraining\Collections\List\bin\Debug\net5.0\SoretedSet.dll
+C:\EMICSharpTraining\Collections\List\bin\Debug\net5.0\ref\SoretedSet.dll
+C:\EMICSharpTraining\Collections\List\bin\Debug\net5.0\SoretedSet.pdb
+C:\EMICSharpTraining\Collections\List\obj\Debug\net5.0\SoretedSet.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\Collections\List\obj\Debug\net5.0\SoretedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\Collections\List\obj\Debug\net5.0\SoretedSet.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\Collections\List\obj\Debug\net5.0\SoretedSet.AssemblyInfo.cs
+C:\EMICSharpTraining\Collections\List\obj\Debug\net5.0\SoretedSet.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\Collections\List\obj\Debug\net5.0\SoretedSet.dll
+C:\EMICSharpTraining\Collections\List\obj\Debug\net5.0\ref\SoretedSet.dll
+C:\EMICSharpTraining\Collections\List\obj\Debug\net5.0\SoretedSet.pdb
+C:\EMICSharpTraining\Collections\List\obj\Debug\net5.0\SoretedSet.genruntimeconfig.cache

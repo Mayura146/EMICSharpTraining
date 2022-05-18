@@ -1,0 +1,16 @@
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\bin\Debug\net5.0\LINQ_Demos.exe
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\bin\Debug\net5.0\LINQ_Demos.deps.json
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\bin\Debug\net5.0\LINQ_Demos.runtimeconfig.json
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\bin\Debug\net5.0\LINQ_Demos.runtimeconfig.dev.json
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\bin\Debug\net5.0\LINQ_Demos.dll
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\bin\Debug\net5.0\ref\LINQ_Demos.dll
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\bin\Debug\net5.0\LINQ_Demos.pdb
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\obj\Debug\net5.0\LINQ_Demos.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\obj\Debug\net5.0\LINQ_Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\obj\Debug\net5.0\LINQ_Demos.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\obj\Debug\net5.0\LINQ_Demos.AssemblyInfo.cs
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\obj\Debug\net5.0\LINQ_Demos.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\obj\Debug\net5.0\LINQ_Demos.dll
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\obj\Debug\net5.0\ref\LINQ_Demos.dll
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\obj\Debug\net5.0\LINQ_Demos.pdb
+C:\EMICSharpTraining\LINQ_Demos\LINQ_Demos\obj\Debug\net5.0\LINQ_Demos.genruntimeconfig.cache
