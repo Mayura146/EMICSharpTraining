@@ -8,6 +8,6 @@ namespace LINQ_Demos
 {
     internal class Student
     {
-        
+     
     }
 }

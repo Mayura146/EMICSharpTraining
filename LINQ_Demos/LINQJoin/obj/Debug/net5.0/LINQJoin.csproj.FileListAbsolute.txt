@@ -1,0 +1,16 @@
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\bin\Debug\net5.0\LINQJoin.exe
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\bin\Debug\net5.0\LINQJoin.deps.json
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\bin\Debug\net5.0\LINQJoin.runtimeconfig.json
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\bin\Debug\net5.0\LINQJoin.runtimeconfig.dev.json
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\bin\Debug\net5.0\LINQJoin.dll
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\bin\Debug\net5.0\ref\LINQJoin.dll
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\bin\Debug\net5.0\LINQJoin.pdb
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\obj\Debug\net5.0\LINQJoin.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\obj\Debug\net5.0\LINQJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\obj\Debug\net5.0\LINQJoin.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\obj\Debug\net5.0\LINQJoin.AssemblyInfo.cs
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\obj\Debug\net5.0\LINQJoin.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\obj\Debug\net5.0\LINQJoin.dll
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\obj\Debug\net5.0\ref\LINQJoin.dll
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\obj\Debug\net5.0\LINQJoin.pdb
+C:\EMICSharpTraining\LINQ_Demos\LINQJoin\obj\Debug\net5.0\LINQJoin.genruntimeconfig.cache

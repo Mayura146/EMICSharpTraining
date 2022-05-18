@@ -17,3 +17,14 @@ LINQ providers
 Different ways to write LINQ query
 Query Syntax => sql query
 Method syntax=>
+
+// Joins in LINQ
+Join=> inner join
+GroupJoin=>left join
+Cross join=> join,selectMany
+outer data source=>
+inner data source
+outer key selector=> deptid=> Employee
+inner key selector=> deptid=> department
+
+

@@ -12,6 +12,7 @@ namespace LINQ_Demos
         public string name;
         public string location;
         public List<string> technologies;
+        public int Experience;
 
         public static List<Trainer> GetTrainerDetails()
         {
@@ -22,7 +23,8 @@ namespace LINQ_Demos
                 id=1,
                 name="Poorva",
                 location="Pune",
-                technologies=new List<string> { "C","C++","Java","WPF"}
+                technologies=new List<string> { "C","C++","Java","WPF"},
+                Experience=12
             });
             list.Add(new Trainer
 
@@ -30,15 +32,17 @@ namespace LINQ_Demos
                 id = 1,
                 name = "Tushar",
                 location = "Mumbai",
-                technologies = new List<string> { "C", "C++", "Java", "WPF" }
-            });
+                technologies = new List<string> { "C", "C++", "Java", "WPF" },
+                Experience = 3
+            }) ;
             list.Add(new Trainer
 
             {
                 id = 1,
                 name = "Heda",
                 location = "Delhi",
-                technologies = new List<string> { "ETL","C#"}
+                technologies = new List<string> { "ETL","C#"},
+                Experience=15
             });
             return list;
         }
