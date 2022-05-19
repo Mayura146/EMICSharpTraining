@@ -1,0 +1,16 @@
+C:\EMICSharpTraining\Thread\Thread\bin\Debug\net5.0\Thread.exe
+C:\EMICSharpTraining\Thread\Thread\bin\Debug\net5.0\Thread.deps.json
+C:\EMICSharpTraining\Thread\Thread\bin\Debug\net5.0\Thread.runtimeconfig.json
+C:\EMICSharpTraining\Thread\Thread\bin\Debug\net5.0\Thread.runtimeconfig.dev.json
+C:\EMICSharpTraining\Thread\Thread\bin\Debug\net5.0\Thread.dll
+C:\EMICSharpTraining\Thread\Thread\bin\Debug\net5.0\ref\Thread.dll
+C:\EMICSharpTraining\Thread\Thread\bin\Debug\net5.0\Thread.pdb
+C:\EMICSharpTraining\Thread\Thread\obj\Debug\net5.0\Thread.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\Thread\Thread\obj\Debug\net5.0\Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\Thread\Thread\obj\Debug\net5.0\Thread.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\Thread\Thread\obj\Debug\net5.0\Thread.AssemblyInfo.cs
+C:\EMICSharpTraining\Thread\Thread\obj\Debug\net5.0\Thread.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\Thread\Thread\obj\Debug\net5.0\Thread.dll
+C:\EMICSharpTraining\Thread\Thread\obj\Debug\net5.0\ref\Thread.dll
+C:\EMICSharpTraining\Thread\Thread\obj\Debug\net5.0\Thread.pdb
+C:\EMICSharpTraining\Thread\Thread\obj\Debug\net5.0\Thread.genruntimeconfig.cache

@@ -15,7 +15,12 @@
       "ProjectGuid": "717b78d9-af92-434f-b2ed-ea8413fa6996",
       "DisplayName": "LINQDemos",
       "ColorIndex": 2
+    },
+    "d30344f4-0cfc-481c-aa31-2e2c34b1b1a1": {
+      "ProjectGuid": "d30344f4-0cfc-481c-aa31-2e2c34b1b1a1",
+      "DisplayName": "LINQJoin",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

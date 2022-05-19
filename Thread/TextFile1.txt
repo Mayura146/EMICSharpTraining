@@ -1,0 +1,22 @@
+Thread:
+ 
+  Multiprogramming=> 
+  Multiprocessing
+  Multitasking
+  mULTItHREADING
+  Thread LifeCycle
+   // Current Thread
+   IsAlive
+   IsBackground
+   Name: 
+   Priority:
+   ThreadState
+
+   LifeCycle => 1. Unstarted Thread t=new Thread()
+   start()=> Runnable State => t.Start()
+   Running State=
+   sleep=> Not Runnable Thread.Sleep().Thread.WAit
+   Dead=> Thread.Abort()
+
+   TPL=> Task PArallel Library
+   Task
