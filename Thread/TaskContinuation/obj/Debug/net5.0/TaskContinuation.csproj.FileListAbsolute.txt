@@ -1,0 +1,16 @@
+C:\EMICSharpTraining\Thread\TaskContinuation\bin\Debug\net5.0\TaskContinuation.exe
+C:\EMICSharpTraining\Thread\TaskContinuation\bin\Debug\net5.0\TaskContinuation.deps.json
+C:\EMICSharpTraining\Thread\TaskContinuation\bin\Debug\net5.0\TaskContinuation.runtimeconfig.json
+C:\EMICSharpTraining\Thread\TaskContinuation\bin\Debug\net5.0\TaskContinuation.runtimeconfig.dev.json
+C:\EMICSharpTraining\Thread\TaskContinuation\bin\Debug\net5.0\TaskContinuation.dll
+C:\EMICSharpTraining\Thread\TaskContinuation\bin\Debug\net5.0\ref\TaskContinuation.dll
+C:\EMICSharpTraining\Thread\TaskContinuation\bin\Debug\net5.0\TaskContinuation.pdb
+C:\EMICSharpTraining\Thread\TaskContinuation\obj\Debug\net5.0\TaskContinuation.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\Thread\TaskContinuation\obj\Debug\net5.0\TaskContinuation.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\Thread\TaskContinuation\obj\Debug\net5.0\TaskContinuation.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\Thread\TaskContinuation\obj\Debug\net5.0\TaskContinuation.AssemblyInfo.cs
+C:\EMICSharpTraining\Thread\TaskContinuation\obj\Debug\net5.0\TaskContinuation.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\Thread\TaskContinuation\obj\Debug\net5.0\TaskContinuation.dll
+C:\EMICSharpTraining\Thread\TaskContinuation\obj\Debug\net5.0\ref\TaskContinuation.dll
+C:\EMICSharpTraining\Thread\TaskContinuation\obj\Debug\net5.0\TaskContinuation.pdb
+C:\EMICSharpTraining\Thread\TaskContinuation\obj\Debug\net5.0\TaskContinuation.genruntimeconfig.cache

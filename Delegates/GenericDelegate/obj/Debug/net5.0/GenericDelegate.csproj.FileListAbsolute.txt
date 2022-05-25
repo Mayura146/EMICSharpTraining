@@ -1,0 +1,15 @@
+C:\EMICSharpTraining\Delegates\GenericDelegate\bin\Debug\net5.0\GenericDelegate.exe
+C:\EMICSharpTraining\Delegates\GenericDelegate\bin\Debug\net5.0\GenericDelegate.deps.json
+C:\EMICSharpTraining\Delegates\GenericDelegate\bin\Debug\net5.0\GenericDelegate.runtimeconfig.json
+C:\EMICSharpTraining\Delegates\GenericDelegate\bin\Debug\net5.0\GenericDelegate.runtimeconfig.dev.json
+C:\EMICSharpTraining\Delegates\GenericDelegate\bin\Debug\net5.0\GenericDelegate.dll
+C:\EMICSharpTraining\Delegates\GenericDelegate\bin\Debug\net5.0\ref\GenericDelegate.dll
+C:\EMICSharpTraining\Delegates\GenericDelegate\bin\Debug\net5.0\GenericDelegate.pdb
+C:\EMICSharpTraining\Delegates\GenericDelegate\obj\Debug\net5.0\GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\Delegates\GenericDelegate\obj\Debug\net5.0\GenericDelegate.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\Delegates\GenericDelegate\obj\Debug\net5.0\GenericDelegate.AssemblyInfo.cs
+C:\EMICSharpTraining\Delegates\GenericDelegate\obj\Debug\net5.0\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\Delegates\GenericDelegate\obj\Debug\net5.0\GenericDelegate.dll
+C:\EMICSharpTraining\Delegates\GenericDelegate\obj\Debug\net5.0\ref\GenericDelegate.dll
+C:\EMICSharpTraining\Delegates\GenericDelegate\obj\Debug\net5.0\GenericDelegate.pdb
+C:\EMICSharpTraining\Delegates\GenericDelegate\obj\Debug\net5.0\GenericDelegate.genruntimeconfig.cache

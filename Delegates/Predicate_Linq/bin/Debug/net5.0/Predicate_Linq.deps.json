@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Predicate_Linq/1.0.0": {
+        "runtime": {
+          "Predicate_Linq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Predicate_Linq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

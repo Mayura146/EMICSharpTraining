@@ -1,0 +1,16 @@
+C:\EMICSharpTraining\Delegates\Predicate_Linq\bin\Debug\net5.0\Predicate_Linq.exe
+C:\EMICSharpTraining\Delegates\Predicate_Linq\bin\Debug\net5.0\Predicate_Linq.deps.json
+C:\EMICSharpTraining\Delegates\Predicate_Linq\bin\Debug\net5.0\Predicate_Linq.runtimeconfig.json
+C:\EMICSharpTraining\Delegates\Predicate_Linq\bin\Debug\net5.0\Predicate_Linq.runtimeconfig.dev.json
+C:\EMICSharpTraining\Delegates\Predicate_Linq\bin\Debug\net5.0\Predicate_Linq.dll
+C:\EMICSharpTraining\Delegates\Predicate_Linq\bin\Debug\net5.0\ref\Predicate_Linq.dll
+C:\EMICSharpTraining\Delegates\Predicate_Linq\bin\Debug\net5.0\Predicate_Linq.pdb
+C:\EMICSharpTraining\Delegates\Predicate_Linq\obj\Debug\net5.0\Predicate_Linq.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\Delegates\Predicate_Linq\obj\Debug\net5.0\Predicate_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\Delegates\Predicate_Linq\obj\Debug\net5.0\Predicate_Linq.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\Delegates\Predicate_Linq\obj\Debug\net5.0\Predicate_Linq.AssemblyInfo.cs
+C:\EMICSharpTraining\Delegates\Predicate_Linq\obj\Debug\net5.0\Predicate_Linq.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\Delegates\Predicate_Linq\obj\Debug\net5.0\Predicate_Linq.dll
+C:\EMICSharpTraining\Delegates\Predicate_Linq\obj\Debug\net5.0\ref\Predicate_Linq.dll
+C:\EMICSharpTraining\Delegates\Predicate_Linq\obj\Debug\net5.0\Predicate_Linq.pdb
+C:\EMICSharpTraining\Delegates\Predicate_Linq\obj\Debug\net5.0\Predicate_Linq.genruntimeconfig.cache

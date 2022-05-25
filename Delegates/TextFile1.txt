@@ -1,0 +1,23 @@
+int *p;
+add()
+{
+}
+p=&add()
+delegate
+
+public delegate delegate_name(int a,int b)
+
+public void add(int x,int y)
+
+add()
+delegate_name(1,2)
+
+method()=> event_handler
+
+Generic Delegate
+1. Func=> System.namespace
+2. 1 input or more and returns 1 out paramter=> max 16 
+3.Func<int>,Func<string>,func<double>
+
+2. Action=> System.namespace
+3. Predicate=> 

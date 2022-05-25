@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8f2d503-a4e4-4aeb-a39c-8e2fe7e43722": {
+      "ProjectGuid": "d8f2d503-a4e4-4aeb-a39c-8e2fe7e43722",
+      "DisplayName": "Thread",
+      "ColorIndex": 0
+    },
+    "aa7440ec-0412-4610-84f0-67912fac9c49": {
+      "ProjectGuid": "aa7440ec-0412-4610-84f0-67912fac9c49",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "8ec40626-3709-4b86-8c31-3ef9a43fba83": {
+      "ProjectGuid": "8ec40626-3709-4b86-8c31-3ef9a43fba83",
+      "DisplayName": "Task",
+      "ColorIndex": 2
+    },
+    "e6050978-c756-46f1-ad0e-54be31d39957": {
+      "ProjectGuid": "e6050978-c756-46f1-ad0e-54be31d39957",
+      "DisplayName": "TaskContinuation",
+      "ColorIndex": 3
+    },
+    "577c1797-d6ab-4791-adda-c5fdc4f835a9": {
+      "ProjectGuid": "577c1797-d6ab-4791-adda-c5fdc4f835a9",
+      "DisplayName": "TaskReturnValue",
+      "ColorIndex": 4
+    },
+    "be16a2e9-820d-4773-b686-dab9be8d1e1f": {
+      "ProjectGuid": "be16a2e9-820d-4773-b686-dab9be8d1e1f",
+      "DisplayName": "Async_Await",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,15 @@
+C:\EMICSharpTraining\Thread\Async_Await\bin\Debug\net5.0\Async_Await.exe
+C:\EMICSharpTraining\Thread\Async_Await\bin\Debug\net5.0\Async_Await.deps.json
+C:\EMICSharpTraining\Thread\Async_Await\bin\Debug\net5.0\Async_Await.runtimeconfig.json
+C:\EMICSharpTraining\Thread\Async_Await\bin\Debug\net5.0\Async_Await.runtimeconfig.dev.json
+C:\EMICSharpTraining\Thread\Async_Await\bin\Debug\net5.0\Async_Await.dll
+C:\EMICSharpTraining\Thread\Async_Await\bin\Debug\net5.0\ref\Async_Await.dll
+C:\EMICSharpTraining\Thread\Async_Await\bin\Debug\net5.0\Async_Await.pdb
+C:\EMICSharpTraining\Thread\Async_Await\obj\Debug\net5.0\Async_Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\Thread\Async_Await\obj\Debug\net5.0\Async_Await.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\Thread\Async_Await\obj\Debug\net5.0\Async_Await.AssemblyInfo.cs
+C:\EMICSharpTraining\Thread\Async_Await\obj\Debug\net5.0\Async_Await.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\Thread\Async_Await\obj\Debug\net5.0\Async_Await.dll
+C:\EMICSharpTraining\Thread\Async_Await\obj\Debug\net5.0\ref\Async_Await.dll
+C:\EMICSharpTraining\Thread\Async_Await\obj\Debug\net5.0\Async_Await.pdb
+C:\EMICSharpTraining\Thread\Async_Await\obj\Debug\net5.0\Async_Await.genruntimeconfig.cache

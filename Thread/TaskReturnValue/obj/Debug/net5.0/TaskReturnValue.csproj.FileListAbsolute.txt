@@ -1,0 +1,15 @@
+C:\EMICSharpTraining\Thread\TaskReturnValue\bin\Debug\net5.0\TaskReturnValue.exe
+C:\EMICSharpTraining\Thread\TaskReturnValue\bin\Debug\net5.0\TaskReturnValue.deps.json
+C:\EMICSharpTraining\Thread\TaskReturnValue\bin\Debug\net5.0\TaskReturnValue.runtimeconfig.json
+C:\EMICSharpTraining\Thread\TaskReturnValue\bin\Debug\net5.0\TaskReturnValue.runtimeconfig.dev.json
+C:\EMICSharpTraining\Thread\TaskReturnValue\bin\Debug\net5.0\TaskReturnValue.dll
+C:\EMICSharpTraining\Thread\TaskReturnValue\bin\Debug\net5.0\ref\TaskReturnValue.dll
+C:\EMICSharpTraining\Thread\TaskReturnValue\bin\Debug\net5.0\TaskReturnValue.pdb
+C:\EMICSharpTraining\Thread\TaskReturnValue\obj\Debug\net5.0\TaskReturnValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\Thread\TaskReturnValue\obj\Debug\net5.0\TaskReturnValue.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\Thread\TaskReturnValue\obj\Debug\net5.0\TaskReturnValue.AssemblyInfo.cs
+C:\EMICSharpTraining\Thread\TaskReturnValue\obj\Debug\net5.0\TaskReturnValue.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\Thread\TaskReturnValue\obj\Debug\net5.0\TaskReturnValue.dll
+C:\EMICSharpTraining\Thread\TaskReturnValue\obj\Debug\net5.0\ref\TaskReturnValue.dll
+C:\EMICSharpTraining\Thread\TaskReturnValue\obj\Debug\net5.0\TaskReturnValue.pdb
+C:\EMICSharpTraining\Thread\TaskReturnValue\obj\Debug\net5.0\TaskReturnValue.genruntimeconfig.cache

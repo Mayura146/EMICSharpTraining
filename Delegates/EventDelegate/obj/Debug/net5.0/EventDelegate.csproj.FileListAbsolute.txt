@@ -1,0 +1,16 @@
+C:\EMICSharpTraining\Delegates\EventDelegate\bin\Debug\net5.0\EventDelegate.exe
+C:\EMICSharpTraining\Delegates\EventDelegate\bin\Debug\net5.0\EventDelegate.deps.json
+C:\EMICSharpTraining\Delegates\EventDelegate\bin\Debug\net5.0\EventDelegate.runtimeconfig.json
+C:\EMICSharpTraining\Delegates\EventDelegate\bin\Debug\net5.0\EventDelegate.runtimeconfig.dev.json
+C:\EMICSharpTraining\Delegates\EventDelegate\bin\Debug\net5.0\EventDelegate.dll
+C:\EMICSharpTraining\Delegates\EventDelegate\bin\Debug\net5.0\ref\EventDelegate.dll
+C:\EMICSharpTraining\Delegates\EventDelegate\bin\Debug\net5.0\EventDelegate.pdb
+C:\EMICSharpTraining\Delegates\EventDelegate\obj\Debug\net5.0\EventDelegate.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\Delegates\EventDelegate\obj\Debug\net5.0\EventDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\Delegates\EventDelegate\obj\Debug\net5.0\EventDelegate.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\Delegates\EventDelegate\obj\Debug\net5.0\EventDelegate.AssemblyInfo.cs
+C:\EMICSharpTraining\Delegates\EventDelegate\obj\Debug\net5.0\EventDelegate.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\Delegates\EventDelegate\obj\Debug\net5.0\EventDelegate.dll
+C:\EMICSharpTraining\Delegates\EventDelegate\obj\Debug\net5.0\ref\EventDelegate.dll
+C:\EMICSharpTraining\Delegates\EventDelegate\obj\Debug\net5.0\EventDelegate.pdb
+C:\EMICSharpTraining\Delegates\EventDelegate\obj\Debug\net5.0\EventDelegate.genruntimeconfig.cache
