@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07e0cd46-c2ec-46a7-a484-861bc73a0f99": {
+      "ProjectGuid": "07e0cd46-c2ec-46a7-a484-861bc73a0f99",
+      "DisplayName": "Delegates",
+      "ColorIndex": 0
+    },
+    "5763845e-6b82-4cbd-9813-b62477cc4341": {
+      "ProjectGuid": "5763845e-6b82-4cbd-9813-b62477cc4341",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "d7d73f51-61d8-4864-8de1-52a9fe63f955": {
+      "ProjectGuid": "d7d73f51-61d8-4864-8de1-52a9fe63f955",
+      "DisplayName": "EventDelegate",
+      "ColorIndex": 2
+    },
+    "8ce2735d-f723-423d-9af6-e7fd4d13888c": {
+      "ProjectGuid": "8ce2735d-f723-423d-9af6-e7fd4d13888c",
+      "DisplayName": "GenericDelegate",
+      "ColorIndex": 3
+    },
+    "e4d3d0f5-0e3f-4054-bcd0-2de458075918": {
+      "ProjectGuid": "e4d3d0f5-0e3f-4054-bcd0-2de458075918",
+      "DisplayName": "Predicate_Linq",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

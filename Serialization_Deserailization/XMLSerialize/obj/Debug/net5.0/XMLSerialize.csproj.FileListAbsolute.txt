@@ -1,0 +1,16 @@
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\bin\Debug\net5.0\XMLSerialize.exe
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\bin\Debug\net5.0\XMLSerialize.deps.json
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\bin\Debug\net5.0\XMLSerialize.runtimeconfig.json
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\bin\Debug\net5.0\XMLSerialize.runtimeconfig.dev.json
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\bin\Debug\net5.0\XMLSerialize.dll
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\bin\Debug\net5.0\ref\XMLSerialize.dll
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\bin\Debug\net5.0\XMLSerialize.pdb
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\obj\Debug\net5.0\XMLSerialize.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\obj\Debug\net5.0\XMLSerialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\obj\Debug\net5.0\XMLSerialize.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\obj\Debug\net5.0\XMLSerialize.AssemblyInfo.cs
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\obj\Debug\net5.0\XMLSerialize.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\obj\Debug\net5.0\XMLSerialize.dll
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\obj\Debug\net5.0\ref\XMLSerialize.dll
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\obj\Debug\net5.0\XMLSerialize.pdb
+C:\EMICSharpTraining\Serialization_Deserailization\XMLSerialize\obj\Debug\net5.0\XMLSerialize.genruntimeconfig.cache

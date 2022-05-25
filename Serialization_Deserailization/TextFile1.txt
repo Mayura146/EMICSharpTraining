@@ -1,0 +1,7 @@
+// Serialization and Deserialization
+
+binary serilaztion
+XML 
+JSON
+<EmployeeDetails>
+<id></id>

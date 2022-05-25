@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBU8LqGCvxfeC00AVUMeaTm9dl8TCxd3pVgApPOlcj4KejdDPPPY7ZVzqLL5KcXWGSwe3wpLcjvYXxDCKlNEcw==",
+  "success": true,
+  "projectFilePath": "C:\\EMICSharpTraining\\Serialization_Deserailization\\JSONSerialize_Deserialize\\JSONSerialize_Deserialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayura.sonar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
