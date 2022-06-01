@@ -1,0 +1,15 @@
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\bin\Debug\net5.0\BookStore.DataModel.deps.json
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\bin\Debug\net5.0\BookStore.DataModel.runtimeconfig.json
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\bin\Debug\net5.0\BookStore.DataModel.runtimeconfig.dev.json
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\bin\Debug\net5.0\BookStore.DataModel.dll
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\bin\Debug\net5.0\ref\BookStore.DataModel.dll
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\bin\Debug\net5.0\BookStore.DataModel.pdb
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\obj\Debug\net5.0\BookStore.DataModel.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\obj\Debug\net5.0\BookStore.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\obj\Debug\net5.0\BookStore.DataModel.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\obj\Debug\net5.0\BookStore.DataModel.AssemblyInfo.cs
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\obj\Debug\net5.0\BookStore.DataModel.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\obj\Debug\net5.0\BookStore.DataModel.dll
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\obj\Debug\net5.0\ref\BookStore.DataModel.dll
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\obj\Debug\net5.0\BookStore.DataModel.pdb
+C:\EMICSharpTraining\BookStore\BookStore.DataModel\obj\Debug\net5.0\BookStore.DataModel.genruntimeconfig.cache
