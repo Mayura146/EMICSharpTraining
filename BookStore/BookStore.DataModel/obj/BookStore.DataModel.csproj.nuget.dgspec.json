@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BookStore\\BookStore.DataModel\\BookStore.DataModel.csproj": {}
+    "C:\\EMICSharpTraining\\BookStore\\BookStore.DataModel\\BookStore.DataModel.csproj": {}
   },
   "projects": {
-    "C:\\BookStore\\BookStore.DataModel\\BookStore.DataModel.csproj": {
+    "C:\\EMICSharpTraining\\BookStore\\BookStore.DataModel\\BookStore.DataModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BookStore\\BookStore.DataModel\\BookStore.DataModel.csproj",
+        "projectUniqueName": "C:\\EMICSharpTraining\\BookStore\\BookStore.DataModel\\BookStore.DataModel.csproj",
         "projectName": "BookStore.DataModel",
-        "projectPath": "C:\\BookStore\\BookStore.DataModel\\BookStore.DataModel.csproj",
+        "projectPath": "C:\\EMICSharpTraining\\BookStore\\BookStore.DataModel\\BookStore.DataModel.csproj",
         "packagesPath": "C:\\Users\\Mayura.sonar\\.nuget\\packages\\",
-        "outputPath": "C:\\BookStore\\BookStore.DataModel\\obj\\",
+        "outputPath": "C:\\EMICSharpTraining\\BookStore\\BookStore.DataModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

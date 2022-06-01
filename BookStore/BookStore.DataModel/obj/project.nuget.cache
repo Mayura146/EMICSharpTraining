@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vJLPUxzICQ+WBxIz+olECFvotEG5WxNpaku/eqFNKX4opKcZDf3g6Fg9s8zts3dh5P2oezsu+vctR6D3PzmKGg==",
+  "dgSpecHash": "1zOR5QVlc2tk4S/V3/isK1QrvY4aWoFkynPoWwNvH4qunMyBCSf15CwGCtJ5JZlIa1ns+xidUh9MGs2iJe/biA==",
   "success": true,
-  "projectFilePath": "C:\\BookStore\\BookStore.DataModel\\BookStore.DataModel.csproj",
+  "projectFilePath": "C:\\EMICSharpTraining\\BookStore\\BookStore.DataModel\\BookStore.DataModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mayura.sonar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mayura.sonar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
