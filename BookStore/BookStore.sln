@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.API", "BookStore\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.DataModel", "BookStore.DataModel\BookStore.DataModel.csproj", "{21AA24FF-1128-4A84-99AB-CD6ACD3C18E7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.ServiceModel", "BookStore.ServiceModel4\BookStore.ServiceModel.csproj", "{D2F012C2-5815-4DFB-B760-12072A8D8737}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore.Service", "BookStore.ServiceModel4\BookStore.Service.csproj", "{D2F012C2-5815-4DFB-B760-12072A8D8737}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

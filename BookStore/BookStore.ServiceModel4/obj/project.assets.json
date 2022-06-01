@@ -765,9 +765,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EMICSharpTraining\\BookStore\\BookStore.ServiceModel4\\BookStore.ServiceModel.csproj",
-      "projectName": "BookStore.ServiceModel",
-      "projectPath": "C:\\EMICSharpTraining\\BookStore\\BookStore.ServiceModel4\\BookStore.ServiceModel.csproj",
+      "projectUniqueName": "C:\\EMICSharpTraining\\BookStore\\BookStore.ServiceModel4\\BookStore.Service.csproj",
+      "projectName": "BookStore.Service",
+      "projectPath": "C:\\EMICSharpTraining\\BookStore\\BookStore.ServiceModel4\\BookStore.Service.csproj",
       "packagesPath": "C:\\Users\\Mayura.sonar\\.nuget\\packages\\",
       "outputPath": "C:\\EMICSharpTraining\\BookStore\\BookStore.ServiceModel4\\obj\\",
       "projectStyle": "PackageReference",
