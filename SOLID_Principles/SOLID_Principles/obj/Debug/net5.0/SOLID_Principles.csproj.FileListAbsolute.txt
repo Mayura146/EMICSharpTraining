@@ -1,0 +1,16 @@
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\bin\Debug\net5.0\SOLID_Principles.exe
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\bin\Debug\net5.0\SOLID_Principles.deps.json
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\bin\Debug\net5.0\SOLID_Principles.runtimeconfig.json
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\bin\Debug\net5.0\SOLID_Principles.runtimeconfig.dev.json
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\bin\Debug\net5.0\SOLID_Principles.dll
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\bin\Debug\net5.0\ref\SOLID_Principles.dll
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\bin\Debug\net5.0\SOLID_Principles.pdb
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\obj\Debug\net5.0\SOLID_Principles.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\obj\Debug\net5.0\SOLID_Principles.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\obj\Debug\net5.0\SOLID_Principles.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\obj\Debug\net5.0\SOLID_Principles.AssemblyInfo.cs
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\obj\Debug\net5.0\SOLID_Principles.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\obj\Debug\net5.0\SOLID_Principles.dll
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\obj\Debug\net5.0\ref\SOLID_Principles.dll
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\obj\Debug\net5.0\SOLID_Principles.pdb
+C:\EMICSharpTraining\SOLID_Principles\SOLID_Principles\obj\Debug\net5.0\SOLID_Principles.genruntimeconfig.cache

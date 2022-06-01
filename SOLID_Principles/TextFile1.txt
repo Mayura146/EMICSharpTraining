@@ -1,0 +1,29 @@
+SOLID
+S=> Single Resposibiity Principle
+O=> Open closed principle => open for extension ,closed for modification
+L=> Liskov Substitution principle
+I=> Interface Segregation 
+D=> Dependency Inversion 
+
+// PAid
+// Sick
+//Public holiday
+interfact Holiday
+{
+paid()
+sick()
+public()
+}
+
+PErmanent:holiday=> PAid,sick,Public
+Pcontract:holiday=> public 
+probabtion: sick, public 
+
+public interfac Holiday
+
+DIP => high level class should not be depend on Lowel level class
+ should not depend on details of lowel level class
+
+ depend on abstraction
+
+ Low level class should depend on abstraction

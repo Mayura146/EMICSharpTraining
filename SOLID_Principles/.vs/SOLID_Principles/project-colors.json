@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4cc2d57-bfa3-4282-930d-dcfe2a3c9028": {
+      "ProjectGuid": "e4cc2d57-bfa3-4282-930d-dcfe2a3c9028",
+      "DisplayName": "SOLID_Principles",
+      "ColorIndex": 0
+    },
+    "9f3bdfc1-390f-463a-bff0-9bc7ccfcfddd": {
+      "ProjectGuid": "9f3bdfc1-390f-463a-bff0-9bc7ccfcfddd",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "6007e42b-2f26-42e0-a9cd-a1ed32caa173": {
+      "ProjectGuid": "6007e42b-2f26-42e0-a9cd-a1ed32caa173",
+      "DisplayName": "WithoutOCP",
+      "ColorIndex": 2
+    },
+    "23731dc9-37c9-41db-922c-969af6778d11": {
+      "ProjectGuid": "23731dc9-37c9-41db-922c-969af6778d11",
+      "DisplayName": "WithOCP",
+      "ColorIndex": 3
+    },
+    "d8227e73-6a22-42d7-8537-95e16e6c1e30": {
+      "ProjectGuid": "d8227e73-6a22-42d7-8537-95e16e6c1e30",
+      "DisplayName": "WithoutISP",
+      "ColorIndex": 4
+    },
+    "48840279-7208-47ed-9c1b-7925f6237c65": {
+      "ProjectGuid": "48840279-7208-47ed-9c1b-7925f6237c65",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 5
+    },
+    "db5f67f7-8a05-4f97-a07a-b258616172a0": {
+      "ProjectGuid": "db5f67f7-8a05-4f97-a07a-b258616172a0",
+      "DisplayName": "WithouDIP",
+      "ColorIndex": 6
+    },
+    "0e607478-c781-40ae-8b76-dbd69c1d8a0a": {
+      "ProjectGuid": "0e607478-c781-40ae-8b76-dbd69c1d8a0a",
+      "DisplayName": "WithDIP",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

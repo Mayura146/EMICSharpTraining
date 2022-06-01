@@ -1,0 +1,16 @@
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\bin\Debug\net5.0\WithOCP.exe
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\bin\Debug\net5.0\WithOCP.deps.json
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\bin\Debug\net5.0\WithOCP.runtimeconfig.json
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\bin\Debug\net5.0\WithOCP.runtimeconfig.dev.json
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\bin\Debug\net5.0\WithOCP.dll
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\bin\Debug\net5.0\ref\WithOCP.dll
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\bin\Debug\net5.0\WithOCP.pdb
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\obj\Debug\net5.0\WithOCP.csproj.AssemblyReference.cache
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\obj\Debug\net5.0\WithOCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\obj\Debug\net5.0\WithOCP.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\obj\Debug\net5.0\WithOCP.AssemblyInfo.cs
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\obj\Debug\net5.0\WithOCP.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\obj\Debug\net5.0\WithOCP.dll
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\obj\Debug\net5.0\ref\WithOCP.dll
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\obj\Debug\net5.0\WithOCP.pdb
+C:\EMICSharpTraining\SOLID_Principles\WithOCP\obj\Debug\net5.0\WithOCP.genruntimeconfig.cache

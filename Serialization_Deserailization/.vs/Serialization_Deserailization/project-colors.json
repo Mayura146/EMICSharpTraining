@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "34d6e5cd-c8a9-4915-afee-c44ec85dfba1": {
+      "ProjectGuid": "34d6e5cd-c8a9-4915-afee-c44ec85dfba1",
+      "DisplayName": "Serialization_Deserailization",
+      "ColorIndex": 0
+    },
+    "b71e5392-73fe-49a3-a9a3-a7258494197a": {
+      "ProjectGuid": "b71e5392-73fe-49a3-a9a3-a7258494197a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "e1ff8579-252a-42cb-8d85-18d5708ebd37": {
+      "ProjectGuid": "e1ff8579-252a-42cb-8d85-18d5708ebd37",
+      "DisplayName": "XMLSerialize",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e018d433-5e23-46cd-a1a3-cb5e7564c436": {
+      "ProjectGuid": "e018d433-5e23-46cd-a1a3-cb5e7564c436",
+      "DisplayName": "JSONSerialize_Deserialize",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,15 @@
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\bin\Debug\net5.0\WithDIP.exe
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\bin\Debug\net5.0\WithDIP.deps.json
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\bin\Debug\net5.0\WithDIP.runtimeconfig.json
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\bin\Debug\net5.0\WithDIP.runtimeconfig.dev.json
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\bin\Debug\net5.0\WithDIP.dll
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\bin\Debug\net5.0\ref\WithDIP.dll
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\bin\Debug\net5.0\WithDIP.pdb
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\obj\Debug\net5.0\WithDIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\obj\Debug\net5.0\WithDIP.AssemblyInfoInputs.cache
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\obj\Debug\net5.0\WithDIP.AssemblyInfo.cs
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\obj\Debug\net5.0\WithDIP.csproj.CoreCompileInputs.cache
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\obj\Debug\net5.0\WithDIP.dll
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\obj\Debug\net5.0\ref\WithDIP.dll
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\obj\Debug\net5.0\WithDIP.pdb
+C:\EMICSharpTraining\SOLID_Principles\WithDIP\obj\Debug\net5.0\WithDIP.genruntimeconfig.cache
