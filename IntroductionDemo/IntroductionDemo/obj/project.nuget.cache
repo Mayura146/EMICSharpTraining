@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+IIqzmn59/Pk7BEudzc8UWH1/4UidmgUE7qexXoRDMnvek8UcSkWuciUG6wkQL249O057vk6MnO/DVJGuHi28w==",
+  "success": true,
+  "projectFilePath": "C:\\EMICSharpTraining\\IntroductionDemo\\IntroductionDemo\\IntroductionDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayura.sonar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Mayura.sonar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mayura.sonar\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Mayura.sonar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Mayura.sonar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Mayura.sonar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

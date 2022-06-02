@@ -1,0 +1,33 @@
+﻿Asp.net  core:
+
+Cross platform
+open source
+IIS,Docker,Apache.Nginx,Self-host deplyement => kestrel
+Nugetpackages=> 
+Unified MVC and WEbAPI framework
+
+hosting
+
+standard framework
+
+1. Global.asax
+2. Web.config
+3.HTTP HAndlers/Modules=> Middleware
+4.asp.net page life cycle
+5.Router.config
+
+
+Hosting Models:
+
+1. In-Process 
+
+2. Out-Process:
+
+
+Map
+MapGet
+
+Attribute Routing
+Conventional Routing
+
+
