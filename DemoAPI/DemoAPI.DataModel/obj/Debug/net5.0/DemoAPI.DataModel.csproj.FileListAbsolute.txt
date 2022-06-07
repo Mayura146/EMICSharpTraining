@@ -1,0 +1,14 @@
+C:\DemoAPI\DemoAPI.DataModel\bin\Debug\net5.0\DemoAPI.DataModel.deps.json
+C:\DemoAPI\DemoAPI.DataModel\bin\Debug\net5.0\DemoAPI.DataModel.runtimeconfig.json
+C:\DemoAPI\DemoAPI.DataModel\bin\Debug\net5.0\DemoAPI.DataModel.runtimeconfig.dev.json
+C:\DemoAPI\DemoAPI.DataModel\bin\Debug\net5.0\DemoAPI.DataModel.dll
+C:\DemoAPI\DemoAPI.DataModel\bin\Debug\net5.0\ref\DemoAPI.DataModel.dll
+C:\DemoAPI\DemoAPI.DataModel\bin\Debug\net5.0\DemoAPI.DataModel.pdb
+C:\DemoAPI\DemoAPI.DataModel\obj\Debug\net5.0\DemoAPI.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoAPI\DemoAPI.DataModel\obj\Debug\net5.0\DemoAPI.DataModel.AssemblyInfoInputs.cache
+C:\DemoAPI\DemoAPI.DataModel\obj\Debug\net5.0\DemoAPI.DataModel.AssemblyInfo.cs
+C:\DemoAPI\DemoAPI.DataModel\obj\Debug\net5.0\DemoAPI.DataModel.csproj.CoreCompileInputs.cache
+C:\DemoAPI\DemoAPI.DataModel\obj\Debug\net5.0\DemoAPI.DataModel.dll
+C:\DemoAPI\DemoAPI.DataModel\obj\Debug\net5.0\ref\DemoAPI.DataModel.dll
+C:\DemoAPI\DemoAPI.DataModel\obj\Debug\net5.0\DemoAPI.DataModel.pdb
+C:\DemoAPI\DemoAPI.DataModel\obj\Debug\net5.0\DemoAPI.DataModel.genruntimeconfig.cache

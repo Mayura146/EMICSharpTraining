@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62df43dd-ac80-443e-a11b-25b68178439f": {
+      "ProjectGuid": "62df43dd-ac80-443e-a11b-25b68178439f",
+      "DisplayName": "DemoAPI",
+      "ColorIndex": 0
+    },
+    "bc75a180-bbaf-47fa-bbd6-55555714154b": {
+      "ProjectGuid": "bc75a180-bbaf-47fa-bbd6-55555714154b",
+      "DisplayName": "DemoAPI.DataModel",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

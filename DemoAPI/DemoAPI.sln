@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPI", "DemoAPI\DemoAPI.csproj", "{62DF43DD-AC80-443E-A11B-25B68178439F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPI.DataModel", "DemoAPI.DataModel\DemoAPI.DataModel.csproj", "{BC75A180-BBAF-47FA-BBD6-55555714154B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DF43DD-AC80-443E-A11B-25B68178439F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DF43DD-AC80-443E-A11B-25B68178439F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DF43DD-AC80-443E-A11B-25B68178439F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DF43DD-AC80-443E-A11B-25B68178439F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC75A180-BBAF-47FA-BBD6-55555714154B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC75A180-BBAF-47FA-BBD6-55555714154B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC75A180-BBAF-47FA-BBD6-55555714154B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC75A180-BBAF-47FA-BBD6-55555714154B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FB7A017-B833-403E-B1CD-5E4BBB3C9109}
+	EndGlobalSection
+EndGlobal
