@@ -1,23 +1,16 @@
 using DemoAPI.DataModel.Enities;
-using DemoAPI.DataModel.Repository;
-using DemoAPI.DataModel.Repository.Interface;
 using DemoAPI.Extensions;
-using DemoAPI.Services;
-using DemoAPI.Services.Interface;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
+using Microsoft.IdentityModel.Logging;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Text;
 
 namespace DemoAPI
 {
@@ -36,11 +29,24 @@ namespace DemoAPI
             services.ConfigureDomainServices(Configuration);
             services.AddDbContext<BookStoreContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:DefautConnection"]));
             services.AddControllers();
+            IdentityModelEventSource.ShowPII = true;
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DemoAPI", Version = "v1" });
             });
-        }
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+            {
+                options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
+                {
+                    ValidateIssuerSigningKey=true,
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["TokenKey"]))
+                };
+            });
+            }
+        
+
+    
+
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

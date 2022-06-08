@@ -154,6 +154,7 @@ C:\EMICSharpTraining\DemoAPI\DemoAPI\bin\Debug\net5.0\AutoMapper.dll
 C:\EMICSharpTraining\DemoAPI\DemoAPI\bin\Debug\net5.0\AutoMapper.Extensions.ExpressionMapping.dll
 C:\EMICSharpTraining\DemoAPI\DemoAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\EMICSharpTraining\DemoAPI\DemoAPI\bin\Debug\net5.0\Humanizer.dll
+C:\EMICSharpTraining\DemoAPI\DemoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\EMICSharpTraining\DemoAPI\DemoAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\EMICSharpTraining\DemoAPI\DemoAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\EMICSharpTraining\DemoAPI\DemoAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll

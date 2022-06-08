@@ -19,6 +19,7 @@ namespace DemoAPI.Extensions
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IUserService, UserService>();
             services.AddAutoMapper(typeof(ProfileMapper));
+            services.AddScoped<ITokenService, TokenService>();  
         }
     }
 }

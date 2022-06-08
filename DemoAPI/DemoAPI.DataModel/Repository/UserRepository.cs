@@ -29,7 +29,7 @@ namespace DemoAPI.DataModel.Repository
                 {
                     Username = userDetails.Username,
                     UserId = userDetails.UserId,
-                    UserTypeId = userDetails.UserId
+                    UserTypeId = userDetails.UserTypeId
                 };
 
                 return user;
