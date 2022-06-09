@@ -7,7 +7,7 @@ namespace DemoAPI.Mapper
     {
         public ProfileMapper()
         {
-            CreateMap<CartItem, CartIitemDto>();
-        }
+            CreateMap<CartItem, CartIitemDto>().ReverseMap();
+               }
     }
 }

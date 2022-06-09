@@ -1,4 +1,5 @@
-﻿using DemoAPI.DataModel.Enities;
+﻿using DemoAPI.DataModel.DTO;
+using DemoAPI.DataModel.Enities;
 using DemoAPI.DataModel.Repository.Interface;
 
 namespace DemoAPI.Services

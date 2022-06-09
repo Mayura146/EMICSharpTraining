@@ -1,4 +1,5 @@
-﻿using DemoAPI.DataModel.Enities;
+﻿using DemoAPI.DataModel.DTO;
+using DemoAPI.DataModel.Enities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

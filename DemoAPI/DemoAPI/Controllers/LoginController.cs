@@ -2,6 +2,7 @@
 using DemoAPI.DataModel.Repository.Interface;
 using DemoAPI.Services.Interface;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 
 namespace DemoAPI.Controllers
 {
@@ -9,36 +10,37 @@ namespace DemoAPI.Controllers
     [ApiController]
     public class LoginController : ControllerBase
     {
-        private IUserService _userService;
-        private readonly ITokenService _tokenService;
+        readonly IUserService _userService;
+        private readonly IConfiguration _config;
+        readonly ITokenService _tokenService;
 
-        public LoginController (IUserService userService,ITokenService tokenService)
+        public LoginController(IConfiguration config, IUserService userService, ITokenService tokenService)
         {
+            _config = config;
             _userService = userService;
             _tokenService = tokenService;
         }
 
+
         [HttpPost]
-        public IActionResult Login ([FromBody] UserMaster login)
+        public IActionResult Login([FromBody] UserMaster login)
         {
             IActionResult response = Unauthorized();
             UserMaster user = _userService.AuthenticateUser(login);
-            if(user != null)
+
+            if (user != null)
             {
-                var tokenString=_tokenService.CreateToken(user);
+                var tokenString = _tokenService.CreateToken(user);
                 response = Ok(new
                 {
                     token = tokenString,
-                    userDetails = user
+                    userDetails = user,
                 });
             }
 
             return response;
         }
+
+
     }
 }
-
-// header=> token type,hash algorithm=> HS256
-//payload=> subject=> ,name=>,admin=> true
-//Signature=>
-// symmetricKey=> claim=> 

@@ -1,4 +1,5 @@
 ﻿
+using AutoMapper;
 using DemoAPI.DataModel.DTO;
 using DemoAPI.DataModel.Repository.Interface;
 using DemoAPI.Services.Interface;
@@ -13,20 +14,23 @@ namespace DemoAPI.Controllers
     [ApiController]
     public class ShoppingCartController : ControllerBase
     {
+        IMapper _mapper;
         private readonly DataModel.Repository.Interface.ICartService _cartService;
         private readonly IBookService _bookService;
 
-        public ShoppingCartController(ICartService cartService, IBookService bookService)
+        public ShoppingCartController(ICartService cartService, IBookService bookService, IMapper mapper)
         {
             _cartService = cartService;
             _bookService = bookService;
+            _mapper=mapper;
         }
         [HttpGet("{userID}")]
          public async Task<List<CartIitemDto>> GetCountItem(int userID)
         {
             string cartId = _cartService.GetCartId(userID);
-         var data= _bookService.GetBooksAavilableInCart(cartId).ToList();
-            return data;
+            var data =  _bookService.GetBooksAavilableInCart(cartId).ToList();
+            var response = _mapper.Map<List<CartIitemDto>>(data);
+            return response;
         }
 
         [HttpPost]

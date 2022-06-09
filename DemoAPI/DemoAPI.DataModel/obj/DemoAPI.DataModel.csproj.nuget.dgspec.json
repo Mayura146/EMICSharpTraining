@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj": {}
+    "C:\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj": {}
   },
   "projects": {
-    "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj": {
+    "C:\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj",
+        "projectUniqueName": "C:\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj",
         "projectName": "DemoAPI.DataModel",
-        "projectPath": "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj",
+        "projectPath": "C:\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj",
         "packagesPath": "C:\\Users\\Mayura.sonar\\.nuget\\packages\\",
-        "outputPath": "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI.DataModel\\obj\\",
+        "outputPath": "C:\\DemoAPI\\DemoAPI.DataModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.17, )"

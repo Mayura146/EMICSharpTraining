@@ -1,5 +1,6 @@
 ﻿using DemoAPI.DataModel.Enities;
 using DemoAPI.Services.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
@@ -36,6 +37,8 @@ namespace DemoAPI.Controllers
         // PUT: api/Books/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut]
+      
+        [Authorize(Policy = UserRoles.Admin)]
         public int PutBook(Book book)
         {
             return _bookService.UpdateBook(book);
@@ -45,6 +48,7 @@ namespace DemoAPI.Controllers
         // POST: api/Books
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
+       [Authorize(Policy = UserRoles.Admin)]
         public int PostBook(Book book)
         {
             return _bookService.AddBook(book);
