@@ -7750,11 +7750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DemoAPI\\DemoAPI\\DemoAPI.csproj",
+      "projectUniqueName": "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI\\DemoAPI.csproj",
       "projectName": "DemoAPI",
-      "projectPath": "C:\\DemoAPI\\DemoAPI\\DemoAPI.csproj",
+      "projectPath": "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI\\DemoAPI.csproj",
       "packagesPath": "C:\\Users\\Mayura.sonar\\.nuget\\packages\\",
-      "outputPath": "C:\\DemoAPI\\DemoAPI\\obj\\",
+      "outputPath": "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7775,8 +7775,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj": {
-              "projectPath": "C:\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj"
+            "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj": {
+              "projectPath": "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj"
             }
           }
         }

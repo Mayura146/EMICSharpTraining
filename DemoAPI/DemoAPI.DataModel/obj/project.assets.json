@@ -6031,11 +6031,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj",
+      "projectUniqueName": "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj",
       "projectName": "DemoAPI.DataModel",
-      "projectPath": "C:\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj",
+      "projectPath": "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI.DataModel\\DemoAPI.DataModel.csproj",
       "packagesPath": "C:\\Users\\Mayura.sonar\\.nuget\\packages\\",
-      "outputPath": "C:\\DemoAPI\\DemoAPI.DataModel\\obj\\",
+      "outputPath": "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI.DataModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

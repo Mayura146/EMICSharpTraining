@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+1l0VEIc5CkkjKflclD3nGFm+MmkfgSzEGNFbZ6SseCSeKQKrBqRZThsZnhfdEdVP4DBU4ulPb2Jg9gup61g4Q==",
+  "dgSpecHash": "+vXwVLjZonnTmSFTHgpLwETxmSCfixttolYWmohQRfegPRavaQghANc7+/EQUKpwGIp/C12aXnbrz/ar83+BDQ==",
   "success": true,
-  "projectFilePath": "C:\\DemoAPI\\DemoAPI\\DemoAPI.csproj",
+  "projectFilePath": "C:\\EMICSharpTraining\\DemoAPI\\DemoAPI\\DemoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mayura.sonar\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Mayura.sonar\\.nuget\\packages\\automapper.extensions.expressionmapping\\5.0.2\\automapper.extensions.expressionmapping.5.0.2.nupkg.sha512",
