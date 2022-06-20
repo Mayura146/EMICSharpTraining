@@ -19,8 +19,5 @@ namespace DemoAPI.DataModel.Repository.Interface
         List<Category> GetAllCategories();
         List<CartIitemDto> GetBooksAavilableInCart(string cartId);
         List<Book> GetBooksAvailableInWhishList(string whishId);
-
-
-
-    }
+        }
 }
