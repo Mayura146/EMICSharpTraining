@@ -12,10 +12,7 @@ namespace FileUpload_Download.Services
         {
             _fileRepository = repository;
         }
-        public Task<int> DownloadFileAsync(int id)
-        {
-           return _fileRepository.DownloadFileAsync(id);
-        }
+     
 
         public async Task UploadFileAsync(FileModel fileModel)
         {

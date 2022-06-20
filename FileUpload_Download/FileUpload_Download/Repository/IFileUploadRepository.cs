@@ -6,6 +6,6 @@ namespace FileUpload_Download.Repository
     public interface IFileUploadRepository
     {
         public Task UploadFileAsync(FileModel fileModel);
-        public Task<int> DownloadFileAsync(int id);
+        
     }
 }

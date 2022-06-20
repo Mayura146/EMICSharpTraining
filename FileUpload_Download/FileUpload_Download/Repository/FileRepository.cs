@@ -19,23 +19,8 @@ namespace FileUpload_Download.Repository
             _fileDb = fileRecords;  
             _context = fileManagerContext;
         }
-        public async Task<int> DownloadFileAsync(int id)
-        {
-            if (!Directory.Exists(AppDirectory))
-            {
-                Directory.CreateDirectory(AppDirectory);
-                var file = _context.FileData.Where(n => n.Id == id).FirstOrDefault();
-                var path = Path.Combine(AppDirectory, file?.FilePath);
-                var memory = new MemoryStream();
-                FileStream fs = new FileStream(path, FileMode.Open);
-                await fs.CopyToAsync(memory);
-                memory.Position = 0;
-                var fileName=Path.GetFileName(path);
-            }
-            return id;
-         
-        }
-
+      
+   
         public async Task UploadFileAsync(FileModel fileModel)
         {
          try
